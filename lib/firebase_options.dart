@@ -47,28 +47,28 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAh2E8R_2cwme1eWKNbDs0IYGI4DePt7JQ',
-    appId: '1:430839922278:web:f62a2068761848346237a7',
-    messagingSenderId: '430839922278',
-    projectId: 'attendance-app-10dee',
-    authDomain: 'attendance-app-10dee.firebaseapp.com',
-    storageBucket: 'attendance-app-10dee.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBlKdF5zUvUjvWnA6TxJh-Plu5nHlC2ORg',
-    appId: '1:430839922278:android:be05992b1460675b6237a7',
-    messagingSenderId: '430839922278',
-    projectId: 'attendance-app-10dee',
-    storageBucket: 'attendance-app-10dee.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBSHJqCA-D6LFJcGUaSpPvBnYMa9M0Ebm8',
-    appId: '1:430839922278:ios:9fedabbd30bc9d676237a7',
-    messagingSenderId: '430839922278',
-    projectId: 'attendance-app-10dee',
-    storageBucket: 'attendance-app-10dee.appspot.com',
-    iosBundleId: 'com.asia.attendenceapp',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 }
